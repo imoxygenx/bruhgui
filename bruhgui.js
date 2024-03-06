@@ -74,3 +74,4 @@ class bruhgui {
 		}
 	};
 }
+window.bruhgui = bruhgui;
